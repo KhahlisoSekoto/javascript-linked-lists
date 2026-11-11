@@ -46,7 +46,7 @@ Make sure you have [Node.js](https://nodejs.org) installed on your computer.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/KhahlisoSekoto/javascript-linked-lists.git
    ```
 
 2. Open the project folder:
